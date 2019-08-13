@@ -8,7 +8,7 @@ set incsearch
 "butifier block
 map <f10> :!js-beautify -f % -o %<cr>Z<cr>
 set hlsearch
-
+set tags=tags;/
 "python utilities
 imap =pdb import pdb;pdb.set_trace()
 map <f5> :!python3 %<cr>

@@ -1,2 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/var/www/tesseract/app/tesseract-energy'
+let g:netrw_dirhist_2='/var/www/tesseract/app/tesseract-energy/tesseract_energy'
+let g:netrw_dirhist_3='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates'
+let g:netrw_dirhist_4='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates/energy'
+let g:netrw_dirhist_5='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates/energy/views'
+let g:netrw_dirhist_6='/etc/tesseract'
