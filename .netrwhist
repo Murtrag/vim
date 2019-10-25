@@ -1,8 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/var/www/tesseract/app/tesseract-energy'
-let g:netrw_dirhist_2='/var/www/tesseract/app/tesseract-energy/tesseract_energy'
-let g:netrw_dirhist_3='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates'
-let g:netrw_dirhist_4='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates/energy'
-let g:netrw_dirhist_5='/var/www/tesseract/app/tesseract-energy/tesseract_energy/templates/energy/views'
-let g:netrw_dirhist_6='/etc/tesseract'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/apt/apt.conf.d'
+let g:netrw_dirhist_2='/home/murtrag'
+let g:netrw_dirhist_3='/home/murtrag/.vim'
+let g:netrw_dirhist_4='/home/murtrag'
+let g:netrw_dirhist_5='/home/murtrag/Projects/Piotrek'
+let g:netrw_dirhist_6='/home/murtrag/Documents/doku'
+let g:netrw_dirhist_7='/home/murtrag'
