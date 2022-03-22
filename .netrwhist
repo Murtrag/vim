@@ -1,9 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/etc/apt/apt.conf.d'
-let g:netrw_dirhist_2='/home/murtrag'
-let g:netrw_dirhist_3='/home/murtrag/.vim'
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/murtrag/Projects/herbsluftwm'
+let g:netrw_dirhist_7='/home/murtrag/Projects'
+let g:netrw_dirhist_6='/home/murtrag/Projects/grabthegun'
+let g:netrw_dirhist_5='/home/murtrag/Projects'
 let g:netrw_dirhist_4='/home/murtrag'
-let g:netrw_dirhist_5='/home/murtrag/Projects/Piotrek'
-let g:netrw_dirhist_6='/home/murtrag/Documents/doku'
-let g:netrw_dirhist_7='/home/murtrag'
+let g:netrw_dirhist_3='/home/murtrag/Projects/herbsluftwm'
+let g:netrw_dirhist_2='/home/murtrag/Projects'
+let g:netrw_dirhist_1='/home/murtrag'
